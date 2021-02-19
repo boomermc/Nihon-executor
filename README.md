@@ -1,6 +1,6 @@
 ## This is the **official Nihon readme**, if you have downloaded Nihon anywhere else you may have malware. *That isn't our fault*
 
-[![button](https://www.podfeet.com/blog/wp-content/uploads/2018/02/discord-logo.png)](https://discord.gg/rV3vKju)
+https://img.shields.io/github/last-commit/boomermc/nihon-executor?style=for-the-badge
 
 ### **Requirments to install Nihon**
 
