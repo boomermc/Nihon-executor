@@ -1,6 +1,6 @@
 ## This is the **official Nihon readme**, if you have downloaded Nihon anywhere else you may have malware. *That isn't our fault*
 
-[![button](https://simpleicons.org/icons/discord.svg)](https://discord.gg/rV3vKju)
+[![button](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.EzH8DiO6WlVdWQGouIavoAHaHa%26pid%3DApi%26h%3D160&f=1)](https://discord.gg/rV3vKju)
 
 ### **Requirments to install Nihon**
 
