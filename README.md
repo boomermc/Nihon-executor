@@ -5,12 +5,12 @@
 
 * [Visual C++ x64](https://aka.ms/vs/16/release/vc_redist.x64.exe)
 * [Visual C++ x86](https://aka.ms/vs/16/release/vc_redist.x86.exe)
-* [.NET Framework](https://dotnet.microsoft.com/download/dotnet-framework/thank-you/net48-web-installer)
+* <a href="https://dotnet.microsoft.com/download/dotnet-framework/thank-you/net48-web-installer/" target="_blank">.NET Framework</a>
+
 
 
 
 ## Advertising us.
-
 ### If you want to advertise us link the github in the YouTube description. No download links, download link will be here and in the Discord. 
 
 
