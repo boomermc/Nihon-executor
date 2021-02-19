@@ -1,7 +1,6 @@
 ## This is the **official Nihon readme**, if you have downloaded Nihon anywhere else you may have malware. *That isn't our fault*
 
-![GitHub last commit](https://img.shields.io/github/last-commit/boomermc/nihon-executor?style=for-the-badge) ![Discord](https://img.shields.io/discord/764660848362389505?color=7EAECC&label=Discord&logo=Discord&style=for-the-badge)
-
+![GitHub last commit](https://img.shields.io/github/last-commit/boomermc/nihon-executor?style=for-the-badge) [![Discord](https://img.shields.io/discord/764660848362389505?color=%23&label=Join%20now%21&logo=Discord&style=for-the-badge)](https://discord.gg/rV3vKju)
 ### **Requirments to install Nihon**
 
 * [Visual C++ x64](https://aka.ms/vs/16/release/vc_redist.x64.exe)
