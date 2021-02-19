@@ -1,6 +1,6 @@
 ## This is the **official Nihon readme**, if you have downloaded Nihon anywhere else you may have malware. *That isn't our fault*
 
-[https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white](https://discord.gg/rV3vKju)
+[![button](https://simpleicons.org/icons/discord.svg)](https://discord.gg/rV3vKju)
 
 ### **Requirments to install Nihon**
 
