@@ -1,6 +1,6 @@
 ## This is the **official Nihon readme**, if you have downloaded Nihon anywhere else you may have malware. *That isn't our fault*
 
-https://img.shields.io/github/last-commit/boomermc/nihon-executor?style=for-the-badge
+![GitHub last commit](https://img.shields.io/github/last-commit/boomermc/nihon-executor?style=for-the-badge)
 
 ### **Requirments to install Nihon**
 
