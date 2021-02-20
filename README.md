@@ -22,4 +22,4 @@
 
 [![button](https://cdn.discordapp.com/attachments/811025745916329984/812145123223142402/Nihon_Transparent.png)](https://github.com/boomermc/Nihon-executor/releases/download/1.0/Nihon_Bootstrapper.exe)
 
-#### Once you run the bootstrapper, extract the Nihon.zip with [WinRAR](https://www.rarlab.com/rar/winrar-x64-600.exe)
+#### When it comes to Roblox hacking and general usage, download [WinRAR](https://www.rarlab.com/rar/winrar-x64-600.exe)
